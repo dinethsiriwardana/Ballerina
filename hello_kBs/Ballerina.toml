@@ -1,6 +1,6 @@
 [package]
 org = "dineth"
-name = "hello_docker"
+name = "hello_kBs"
 version = "0.1.0"
 distribution = "2201.9.2"
 
